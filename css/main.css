@@ -109,7 +109,10 @@ h1 a {
   text-decoration: none;
   color: black;
   background: white;
+}
 
+p a {
+  color: black;
 }
 
 nav a:hover,
