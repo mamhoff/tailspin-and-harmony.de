@@ -105,9 +105,16 @@ nav a {
     background: white;
 }
 
+h1 a {
+  text-decoration: none;
+  color: black;
+  background: white;
+
+}
+
 nav a:hover,
 nav a:visited {
-    color: white;
+    color: black;
 }
 
 nav a:hover {
