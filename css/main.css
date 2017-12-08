@@ -159,7 +159,19 @@ img {
    ========================================================================== */
 
 
+.songs dt {
+  vertical-align: top;
+  display: inline-block;
+  width: 45%;
+  margin-bottom: 1em;
+}
 
+.songs dd {
+  display: inline-block;
+  width: 45%;
+  margin-left: 2em;
+  margin-bottom: 1em;
+}
 
 
 
